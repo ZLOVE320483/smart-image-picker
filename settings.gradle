@@ -1,1 +1,1 @@
-include ':app', ':smart-image-picker-core'
+include ':app', ':smart-image-picker-core', ':smart-image-picker-support'
