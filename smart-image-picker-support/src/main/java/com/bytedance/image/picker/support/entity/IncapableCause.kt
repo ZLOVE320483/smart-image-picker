@@ -3,7 +3,7 @@ package com.bytedance.image.picker.support.entity
 import android.content.Context
 import android.widget.Toast
 import androidx.annotation.IntDef
-import com.bytedance.image.picker.support.widget.IncapableDialog
+import com.bytedance.image.picker.support.ui.widget.IncapableDialog
 import java.lang.annotation.Retention
 import java.lang.annotation.RetentionPolicy
 

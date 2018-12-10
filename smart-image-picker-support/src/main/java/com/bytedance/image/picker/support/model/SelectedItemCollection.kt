@@ -10,7 +10,7 @@ import com.bytedance.image.picker.support.entity.IncapableCause
 import com.bytedance.image.picker.support.entity.Item
 import com.bytedance.image.picker.support.entity.SelectionSpec
 import com.bytedance.image.picker.support.utils.PhotoMetadataUtils
-import com.bytedance.image.picker.support.widget.CheckView
+import com.bytedance.image.picker.support.ui.widget.CheckView
 import java.util.*
 
 class SelectedItemCollection(private val mContext: Context) {

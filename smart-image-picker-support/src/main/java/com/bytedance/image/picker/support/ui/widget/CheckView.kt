@@ -1,4 +1,4 @@
-package com.bytedance.image.picker.support.widget
+package com.bytedance.image.picker.support.ui.widget
 
 open class CheckView {
 
