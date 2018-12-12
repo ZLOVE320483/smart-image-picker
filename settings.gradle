@@ -1,1 +1,1 @@
-include ':app', ':smart-image-picker-core', ':smart-image-picker-support', ':smart-image-picker-wechat-style'
+include ':app', ':smart-image-picker-core', ':smart-image-picker-support', ':smart-image-picker-wechat-style', ':smart-image-picker-zhihu-style'
